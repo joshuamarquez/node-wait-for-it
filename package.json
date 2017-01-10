@@ -1,0 +1,31 @@
+{
+  "name": "node-wait-for-it",
+  "version": "0.1.0",
+  "description": "Node.js wrapper for the famous wait-for-it bash script.",
+  "main": "index.js",
+  "bin": {
+    "wait-for-it": "./bin/wait-for-it"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protocoolmx/node-wait-for-it.git"
+  },
+  "keywords": [
+    "wait-for-it",
+    "bash",
+    "timeout",
+    "tcp",
+    "wait",
+    "for",
+    "it"
+  ],
+  "author": "Protocool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/protocoolmx/node-wait-for-it/issues"
+  },
+  "homepage": "https://github.com/protocoolmx/node-wait-for-it#readme"
+}
