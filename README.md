@@ -13,7 +13,7 @@ $ npm install -g node-wait-for-it
 ```
 MIT License
 
-Copyright (c) 2017 Protocool
+Copyright (c) 2017 Joshua Marquez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
